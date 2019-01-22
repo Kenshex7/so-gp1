@@ -1,7 +1,7 @@
 # Práctica 0
 
 ## Objetivo:
-Compilar y correr xv6
+* Compilar y correr xv6
 
 ## Herramientas:
 * gcc-> compilador
