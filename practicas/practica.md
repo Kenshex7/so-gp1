@@ -13,3 +13,4 @@
 * Un sistema operativo esta compuesto de un kernel y de aplicaciones del sistema.
 
 ## Qué aprendí:
+Aprendí a modificar algunas cosas de un Makefile, a mover directorios y a hacer archivos de texto en linux. Compilamos y ejecutamos XV6 en qemu gracias a lo que hicimos.
