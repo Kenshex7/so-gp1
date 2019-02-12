@@ -14,3 +14,6 @@
 
 ## Qué aprendí:
 Aprendí a modificar algunas cosas de un Makefile, a mover directorios y a hacer archivos de texto en linux. Compilamos y ejecutamos XV6 en qemu gracias a lo que hicimos.
+
+## Url del commit
+https://github.com/Kenshex7/so-gp1/commit/0c8a301042898e0d1bb3e5c76579bd358d59b944
