@@ -28,5 +28,6 @@ Crear dos llamadas a sistema con sus respectivos comandos para apagar y reinicia
 * Software comunicar con el kernel, SOFTWARE-CPU-KERNEL
 
 ## Qué aprendí?
-
+Aprendí que las instrucciones dependen de muchos archivos y que todos ellos se referencían uno a otro, también que los comandos al final de cuentas son instrucciones en hexadecimal referenciadas por otras instrucciones.
 ## Url del commit
+https://github.com/Kenshex7/so-gp1/commit/e69213b806f301d991a757b49ae43a50f61e8e54
