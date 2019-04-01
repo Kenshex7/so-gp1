@@ -26,4 +26,6 @@ Modificar al programa init para imprimir un mensaje de bienvenida. Modificar al 
 * Interrupciones via software
 * Software comunicar con el kernel, SF -> CPU -> Kernel
 # Que aprendi
+Aprendí a modificar el archivo del shell, y agregué una funcionalidad al mismo.
 # Url del commit
+https://github.com/Kenshex7/so-gp1/commit/1ff09ec14de13f4763ffaf9ffb253aa974e16174
