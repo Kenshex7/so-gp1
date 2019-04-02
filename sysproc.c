@@ -103,5 +103,13 @@ sys_reboot(void)
 	outb(0x64, 0XFE);
   return 0;
 }
-
+//Date
+int
+sys_date(void)
+{
+	struct rtcdate *r;
+	argptr(0, (void*)&r, sizeof(r));
+	cmostime(r);
+  	return 0;
+}
 
