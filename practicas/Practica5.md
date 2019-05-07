@@ -22,4 +22,4 @@ Hacer un spike sobre hilos, semaforos y locks
 # ¿Qué aprendí?
 
 # URL del commit
-
+https://github.com/Kenshex7/so-gp1/commit/64634786c9f807544a7002dc4fe0d837c800cfe3
